@@ -12,6 +12,9 @@ optional extras use a one-time ADB command.**
 
 © 2026 reophyva. All rights reserved.
 
+<img src="docs/screenshot-main.png" alt="Voltframe main screen: refresh-rate dial and settings" height="420">
+<img src="docs/screenshot-setup.png" alt="Voltframe setup guide checklist" height="420">
+
 </div>
 
 ---
